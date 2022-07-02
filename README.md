@@ -28,4 +28,4 @@ Also, there's one ⭐ which is not shining right now...you may try making it shi
   
 Made with lots of ❤ and dedication by **Weak-AI**!!
 
-![alt text]([http://url/to/img.png](https://avatars.githubusercontent.com/u/66372332?v=4))
+![Weak-AI]([https://avatars.githubusercontent.com/u/66372332?v=4])
