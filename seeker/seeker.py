@@ -138,7 +138,7 @@ def server(SITE,port):
 	preoc = False
 	print(f'{G}[+] {C}Port : {W}{port}\n')
 	print(f'{G}[+] {C}Starting PHP Server...{W}', end='', flush=True)
-	cmd = ['php', '-S', f'0.0.0.0:{port}', '-t', f'template/{SITE}/']
+	cmd = ['php', '-S', f'0.0.0.0:{port}', '-t', f'seeker/template/{SITE}/']
 	ngrok_url = str(ngrok.connect(port,'http')).split()[1].split('"')[1]
 	print(ngrok_url)
 
