@@ -18,8 +18,8 @@ The idea behind Vision is simple. You can simply create a telegram bot and use i
   Step-5: Enter your instagram username and password in **Osintgram/config/credentials.ini** file.  
 
   Step-6: Now run **main.py** file, go to the bot you have created and type **/help** (main.py should keep running while you are using the telegram bot).
-        Now, here comes the use of a server. You may buy a cloud server but, in case you don't want to spend money you may use termux which can keep this
-        script running in background until your phone is not switched off.  
+        Now, here comes the use of a server. You may buy a cloud server but, in case you don't want to spend money you may use **termux** which can keep this
+        script running in background until your phone is not switched off. Another cheaper way is you can use a **raspberyy pi** for keeping this script running.  
         
   Step-7: I am done with the explaination go and enjoy!!👍  
 
