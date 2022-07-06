@@ -1,7 +1,7 @@
 
 
   # The Vision
-Use it if you are lazy :)
+Use it if you are really lazy :)
 
 # Idea
 The idea behind Vision is simple. You can simply create a telegram bot and use it for OSINT and information gathering purposes.
