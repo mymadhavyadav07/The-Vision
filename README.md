@@ -1,4 +1,5 @@
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mymadhavyadav16.The-Vision" alt="visitors"/>
 
   # The Vision
 Use it if you are really lazy :)
