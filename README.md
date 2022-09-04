@@ -26,7 +26,7 @@ The idea behind Vision is simple. You can simply create a telegram bot and use i
         
   Step-8: I am done with the explaination go and enjoy!!👍  
 
-# Installation
+# Usage-guide
 I don't think you would require a usage guide...Vision is user-friendly(at least I think so) 😀
 But, in case you need a usage guide...raise an issue 👍 
   
@@ -34,10 +34,10 @@ But, in case you need a usage guide...raise an issue 👍
 This tool's creator would not be held responsible for any illegal act done by a user.  
 **It is meant for educational purposes only!**          
   
-## Lastly...
+# Lastly...
 Hope you would like it...waiting for the notification of one new follower. 😁  
 Also, there's one ⭐ which is not shining right now...you may try making it shine. 😗👍  
   
-Made with lots of ❤ and dedication by **Weak-AI**!!
+Made with lots of ❤ and dedication by **Madhav Yadav**!!
 
-![Weak-AI](https://avatars.githubusercontent.com/u/66372332?v=4)
+![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
