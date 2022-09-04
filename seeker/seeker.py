@@ -9,7 +9,6 @@ W = '\033[0m'   # white
 Y = '\033[33m'  # yellow
 
 
-from curses.ascii import SI
 import sys
 import argparse
 import requests
