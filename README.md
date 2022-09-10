@@ -2,12 +2,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mymadhavyadav16.The-Vision" alt="visitors"/>
 
   # The Vision
-Use it if you are really lazy :)
+  This is a simple telegram bot which can be used for running popular open-source tools realted to OSINT/Hacking 
+  
+  # Idea
+  This telegram bot script is hosted on cloud using streamlit cloud service.
 
-# Idea
-The idea behind Vision is simple. You can simply create a telegram bot and use it for OSINT and information gathering purposes.
 
-# Installation
+<!--# Installation
   Step-1: Grab some patience you might need it during the process of installation lol.  
   
   Step-2: Go to telegram bot-father (https://telegram.me/BotFather) and ask him to create a new bot.  
@@ -25,10 +26,10 @@ The idea behind Vision is simple. You can simply create a telegram bot and use i
         script running in background until your phone is not switched off. Another cheaper way is you can use a **raspberyy pi** for keeping this script running.  
         
   Step-8: I am done with the explaination go and enjoy!!👍  
+-->
 
 # Usage-guide
-I don't think you would require a usage guide...Vision is user-friendly(at least I think so) 😀
-But, in case you need a usage guide...raise an issue 👍 
+
   
 # Disclaimer
 This tool's creator would not be held responsible for any illegal act done by a user.  
