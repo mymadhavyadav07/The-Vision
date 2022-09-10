@@ -8,7 +8,8 @@ from urllib.request import urlretrieve
 import os
 from seeker import seeker
 
-API = '<BOT-API-TOKEN>'
+API = os.getenv("api")
+# API = '<BOT-API-TOKEN>'
 bot = telebot.TeleBot(API)
 
 BASE_PATH = os.path.dirname(__file__)
