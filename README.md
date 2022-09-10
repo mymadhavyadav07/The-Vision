@@ -5,7 +5,7 @@
   This is a simple telegram bot which can be used for running popular open-source tools realted to OSINT/Hacking 
   
   # Idea
-  This telegram bot script is hosted on cloud using streamlit cloud service.
+  This telegram bot script is hosted on cloud using streamlit cloud service and can be accessed through a telegram bot on your fingertips.
 
 
 <!--# Installation
@@ -29,7 +29,8 @@
 -->
 
 # Usage-guide
-
+[![Go to - Telegram Bot](https://img.shields.io/badge/Go_to-Live_Site-2ea44f?style=for-the-badge)](https://t.me/Shallvhack_TheVision_bot)
+  
   
 # Disclaimer
 This tool's creator would not be held responsible for any illegal act done by a user.  
@@ -39,6 +40,7 @@ This tool's creator would not be held responsible for any illegal act done by a 
 Hope you would like it...waiting for the notification of one new follower. 😁  
 Also, there's one ⭐ which is not shining right now...you may try making it shine. 😗👍  
   
-Made with lots of ❤ and dedication by **Madhav Yadav**!!
+**Made with lots of ❤ and dedication by Madhav Yadav**!!
 
 ![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
+
